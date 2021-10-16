@@ -39,3 +39,11 @@ split -l 500 common_passwords.txt split_prefix
 Use -O to rename the incoming file:
 wget -O new_file_name http://your_url.com
 
+## All Commands
+sudo apt install unzip
+sudo apt install python3-pip
+pip install tqdm
+wget –O protected2.zip https://bit.ly/protected2zip
+wget –O zip_password_cracker.py https://bit.ly/zip_password_cracker
+wget –O common_passwords1.txt https://bit.ly/common_passwords1
+wget –O common_passwords2.txt https://bit.ly/common_passwords2
