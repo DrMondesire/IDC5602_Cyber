@@ -47,3 +47,4 @@ wget -O new_file_name http://your_url.com
 * wget –O zip_password_cracker.py https://bit.ly/zip_password_cracker
 * wget –O common_passwords1.txt https://bit.ly/common_passwords1
 * wget –O common_passwords2.txt https://bit.ly/common_passwords2
+* head secret.txt
